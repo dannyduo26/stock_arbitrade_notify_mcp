@@ -220,10 +220,6 @@ def your_tool_name(param1: str, param2: int) -> dict:
 
 本项目遵循 MIT 许可证。
 
-## 👤 作者
-
-duyulin@kingsoft.com
-
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
